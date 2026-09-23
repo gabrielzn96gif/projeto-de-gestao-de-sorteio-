@@ -1,1 +1,1 @@
-# projeto-de-gest-o-de-sorteio-
+# projeto-de-gestao-de-sorteio-
